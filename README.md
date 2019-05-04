@@ -36,7 +36,7 @@ run menggunakan php cli, output :
 
 <strong>$</strong> php soal3.php 
 input username : 9
-* = = = = = = = * 
+<pre>* = = = = = = = * 
 * = = = = = = = * 
 * = = = = = = = * 
 * = = = = = = = * 
@@ -45,4 +45,4 @@ input username : 9
 * = = = = = = = * 
 * = = = = = = = * 
 * = = = = = = = * 
-
+</pre>
