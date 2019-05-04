@@ -4,8 +4,9 @@
 
 run menggunakan php cli, output : 
 
-<strong>$</strong> php soal1.php</br> 
+<pre><strong>$</strong> php soal1.php</br> 
 {"nama":"Muhammad Sholeh","alamat":"Kabupaten Siwa, Sulawesi Selatan","hobby":["Nonton","Membaca","Berpikir"],"merit":false,"school":{"HighScool":"SMAN 1 SAWERIGADI","University":"HALU OLEO UNIVERSITY"},"skill":[{"Manajemen":"Sedang","Disiplin":"Sedang"},{"Desain":["Photoshop","Inkscape"],"Programming":["PHP","Java"]}]}
+</pre>
 
 <h4>Kegunaan JSON pada RESTAPI yaitu untuk memudahkan restAPI dalam memberikan data response kepada client yang berkomunikasi dengan RESTAPI itu sendiri</h4>
 
@@ -13,7 +14,7 @@ run menggunakan php cli, output :
 
 run menggunakan php cli, output : 
 
-<strong>$</strong> php soal2.php </br>
+<pre><strong>$</strong> php soal2.php </br>
 input username : testtest</br>
 password : 123456789</br>
 Fail Weak Password</br>
@@ -29,6 +30,7 @@ Username or password must be 8 character</br>
 input username :</br> 
 password : </br>
 username or password cannt be null</br>
+</pre>
 
 <h1>SOAL 3</h1>
 
