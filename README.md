@@ -30,4 +30,19 @@ input username :</br>
 password : </br>
 username or password cannt be null</br>
 
+<h1>SOAL 3</h1>
+
+run menggunakan php cli, output :
+
+<strong>$</strong> php soal3.php 
+input username : 9
+* = = = = = = = * 
+* = = = = = = = * 
+* = = = = = = = * 
+* = = = = = = = * 
+* * * * * * * * * 
+* = = = = = = = * 
+* = = = = = = = * 
+* = = = = = = = * 
+* = = = = = = = * 
 
