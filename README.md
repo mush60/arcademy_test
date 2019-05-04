@@ -76,7 +76,7 @@ Makan akan dihasilkan:
 run menggunakan php cli, output :
 
 <strong>$</strong> php soal3.php 
-input username : 9
+input angka ganjil : 9
 <pre>* = = = = = = = * 
 * = = = = = = = * 
 * = = = = = = = * 
