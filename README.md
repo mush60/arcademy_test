@@ -167,4 +167,34 @@ Akan ditampilkan:
 
 Output : 
 
--
+<pre>
+<strong>$</strong> php soal4.php
+input jml array : 3
+input susunan array ke 0 : rtw
+input susunan array ke 1 : af
+input susunan array ke 2 : gfdg
+Array
+(
+    [0] => Array
+        (
+            [0] => a
+            [1] => f
+        )
+
+    [1] => Array
+        (
+            [0] => r
+            [1] => t
+            [2] => w
+        )
+
+    [2] => Array
+        (
+            [0] => d
+            [1] => f
+            [2] => g
+            [3] => g
+        )
+
+)
+</pre>
