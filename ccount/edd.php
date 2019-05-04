@@ -16,5 +16,10 @@ if ($_GET['id'] != null) {
 
     header("location:index.php");
 }
+else {
 
+    exit();
+    header("location:index.php");
+
+}
 
