@@ -98,7 +98,7 @@ Jika tombol tambah di tekan maka perolehan suara (db:earned_vote) calon kandidat
 Wajib menggunakan HTML, CSS, dan twitter bootstrap untuk tampilan, diusahakan responsive untuk tampilan handphone. Bahasa pemrograman bebas.
 </pre>
 
-link demo app : #
+link demo app : https://youtu.be/bHXBb3eVXgg
 
 
 <h1>SOAL 5</h1>
