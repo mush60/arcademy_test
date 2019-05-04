@@ -17,8 +17,8 @@ run menggunakan php cli, output :
 input username : testtest</br>
 password : 123456789</br>
 Fail Weak Password</br>
-<strong>$</strong> php soal2.php </br>
-input username : testtest</br>  
+<strong>$</strong> php soal2.php</br>
+input username : testtest</br>
 password : 12QWEew@@12</br>
 Success!! You Have strong password</br>
 <strong>$</strong> php soal2.php </br>
