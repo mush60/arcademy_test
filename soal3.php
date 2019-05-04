@@ -30,7 +30,7 @@ function CetakGambar($param) {
     }
 }
 
-echo "input username : ";           //get input from user
+echo "input angka ganjil : ";           //get input from user
 $baris = trim(fgets(STDIN));
 
 if($baris%2 == 1 ) {
